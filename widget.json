@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Widget_One",
+    "author": "Author A",
+    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/widget1.kwgt"
+  },
+{
+    "name": "Widget_2",
+    "author": "Author A",
+    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/widget2.kwgt"
+  },
+{
+    "name": "Widget_3",
+    "author": "Author A",
+    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/widget3.kwgt"
+  },
+{
+    "name": "Widget_4",
+    "author": "Author A",
+    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/widget4.kwgt"
+  },
+  
+]
