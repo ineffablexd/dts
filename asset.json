@@ -1,5 +1,6 @@
-[{
-    "limit":"3",
+[
+    {
+    "limit":"1",
 "name": "Anime1",
     "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/ineffablexd/10k/main/Soft anime_13.webp",
@@ -20,14 +21,14 @@
     "url": "https://raw.githubusercontent.com/ineffablexd/10k/main/Soft anime_14.webp",
     "thumbnail": "https://raw.githubusercontent.com/ineffablexd/10k/main/Soft anime_14.webp",
     "dimensions": "1280x720",
-    "collections": "Anime"
+    "collections": "Manga"
     },{
 "name": "Anime4",
     "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/ineffablexd/10k/main/Soft anime_12.webp",
     "thumbnail": "https://raw.githubusercontent.com/ineffablexd/10k/main/Soft anime_12.webp",
     "dimensions": "1280x720",
-    "collections": "Anime"
+    "collections": "Manga"
     },{
 "name": "Anime3",
     "author": "Ineffable",
