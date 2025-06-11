@@ -1,6 +1,7 @@
-[ {"limit":"2"},
+[ ]
   {
     "name": "Neon Icons",
+    "access":"pro",
     "asset_number": "001",
     "url": "https://drive.google.com/uc?export=download&id=17zekcwMd8dQdegjJiZ6FEP-GagMslapo",
     "image1": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png",
@@ -8,6 +9,7 @@
   },
 {
     "name": "Neon Icons",
+  "access":"pro",
     "asset_number": "001",
     "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/iconpack2.apk",
     "image1": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
@@ -15,6 +17,7 @@
   },
   {
     "name": "Neon Icons",
+    "access":"lite",
     "asset_number": "001",
     "url": "https://drive.google.com/uc?export=download&id=17zekcwMd8dQdegjJiZ6FEP-GagMslapo",
     "image1": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview5.png",
