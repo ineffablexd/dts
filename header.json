@@ -1,5 +1,5 @@
 {
-  "lite": [
+ 
     {
       "name": "nature_mountain",
       "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png"
@@ -7,9 +7,9 @@
     {
       "name": "city_skyline",
       "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png"
-    }
-  ],
-  "pro": [
+    },
+ 
+  
     {
       "name": "dream_valley",
       "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png"
@@ -18,5 +18,5 @@
       "name": "futuristic_city",
       "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
     }
-  ]
+
 }
