@@ -1,17 +1,21 @@
-[ {"limit":"3"},
-  {
-    "name": "KLWP 1",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp1.klwp"
-  },
-  {
-    "name": "KLWP 2",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp2.klwp"
-  },
-  {
-    "name": "KLWP 3",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp3.klwp"
-  }
-]
+{
+  "lite": [
+    {
+      "name": "KLWP 1",
+      "author": "Ineffable H",
+      "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp1.klwp"
+    },
+    {
+      "name": "KLWP 2",
+      "author": "Ineffable H",
+      "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp2.klwp"
+    }
+  ],
+  "pro": [
+    {
+      "name": "KLWP 3",
+      "author": "Ineffable H",
+      "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/klwp3.klwp"
+    }
+  ]
+}
