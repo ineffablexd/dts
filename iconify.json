@@ -1,56 +1,54 @@
-[ {"limit":"2"},
+[
   {
     "number": "001",
     "name": "Neon Bliss",
     "author": "Ineffable",
+    "access": "lite",
     "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/configs.iconify",
     "images": [
       "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
-      
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
     ]
   },
-{
+  {
     "number": "002",
-    "name": "Neon Bliss",
+    "name": "Galaxy Zen",
     "author": "Ineffable",
+    "access": "pro",
     "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/configs.iconify",
     "images": [
       "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
-      
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
     ]
   },
-{
+  {
     "number": "003",
-    "name": "Neon Bliss",
+    "name": "Cyber Minimal",
     "author": "Ineffable",
+    "access": "lite",
     "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/configs.iconify",
     "images": [
       "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
-      
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
     ]
   },
-{
+  {
     "number": "004",
-    "name": "Neon Bliss",
+    "name": "Dreamcore",
     "author": "Ineffable",
+    "access": "pro",
     "url": "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/configs.iconify",
     "images": [
       "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview1.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
-"https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
-
-      
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview2.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview3.png",
+      "https://raw.githubusercontent.com/ineffablexd/dts/refs/heads/main/preview4.png"
     ]
   }
-  
 ]
